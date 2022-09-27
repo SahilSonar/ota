@@ -1,1 +1,18 @@
-NULL
+{
+  "response": [
+     {
+      "datetime": 1664202703,
+      "filename": "lineage-18.1-20220926-UNOFFICIAL-sargo.zip",
+      "id": "cbf29e6963813d4f4ea1b8b32e22fef6",
+      "romtype": "UNOFFICIAL",
+      "size": 844162610,
+      "url": "https://we.tl/t-H7v1nL2OYq",
+      "version": "v1.1",
+      "changelog_system": "OTA testing!",
+      "changelog_misc" : "",
+      "changelog_device": "",
+      "changelog_settings" : "",
+      "changelog_securitypatch" : "September 01 2022"
+    }
+  ]
+}
